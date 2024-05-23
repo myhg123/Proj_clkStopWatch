@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Thu May 23 20:22:40 2024
+# Process ID: 6888
+# Current directory: D:/ish/verilog/vivadoWS/Proj_clkStopWatch/Prj_clkStopWatch.runs/synth_1
+# Command line: vivado.exe -log prjClock.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source prjClock.tcl
+# Log file: D:/ish/verilog/vivadoWS/Proj_clkStopWatch/Prj_clkStopWatch.runs/synth_1/prjClock.vds
+# Journal file: D:/ish/verilog/vivadoWS/Proj_clkStopWatch/Prj_clkStopWatch.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source prjClock.tcl -notrace
